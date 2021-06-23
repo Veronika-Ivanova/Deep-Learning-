@@ -1,2 +1,2 @@
-DeepFM на PyTorch
-2 слоя FC на TensorFlow
+- DeepFM на PyTorch
+- 2 слоя FC на TensorFlow
