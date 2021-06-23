@@ -1,2 +1,3 @@
 - DeepFM на PyTorch
 - 2 слоя FC на TensorFlow
+- Распознавание лиц на PyTorch (Celeba dataset)
