@@ -2,3 +2,5 @@
 - 2 слоя FC на TensorFlow
 - Распознавание лиц на PyTorch (Celeba dataset)
 - Object Detection на PyTorch (только Dataset и Dataloader)
+- Semantic segmentation на Pytorch (SegNet, Unet)
+- Autoencoders на Pytorch
